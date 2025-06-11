@@ -2,7 +2,7 @@
 
 A modern and responsive web-based food ordering platform designed for canteens. This project enables users to browse a menu, add items to their cart, log in, and place orders efficiently. Built with React and styled for a clean user experience.
 
--- Demo Link: 
+-- Demo Link: https://yum-express-tan.vercel.app/
 
 ---
 
